@@ -9,7 +9,7 @@
 
 This was one of the projects I built a few months ago while I was learning AI/ML and getting used to the tools people use to build LLM apps. At that point I'd only ever called an LLM API and printed whatever it sent back, and I wanted to know what it actually takes to make an app work with your own data - how a document turns into something searchable, how the right piece of it gets pulled out for a question, and how that gets handed to the model before it answers.
 
-So this app does two things: you upload a PDF or TXT and ask questions about it (a basic RAG setup), and there's a second tab where you can book an appointment through a simple form. It's not meant to be a real booking product, it was mainly a way to practice putting these pieces together myself.
+So this app does two things: you upload a PDF or TXT and ask questions about it (a basic RAG setup), and there is a second tab where you can book an appointment through a simple form. It's not meant to be a real booking product, it was mainly a way to practice putting these pieces together myself.
 
 ## Project overview
 
